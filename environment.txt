@@ -1,0 +1,5 @@
+Python: 3.14.4
+System: Linux-7.0.0-29-generic-x86_64-with-glibc2.43
+PyTorch: 2.14.1+cu130
+CUDA dostępna: True
+Brakujące moduły: google-genai
